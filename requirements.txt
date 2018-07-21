@@ -1,0 +1,8 @@
+adal==1.0.2
+jupyter==1.0.0
+msrestazure==0.4.34
+numpy==1.14.5
+openpyxl==2.5.4
+pandas==0.23.3
+python-dotenv==0.8.2
+requests==2.19.1
