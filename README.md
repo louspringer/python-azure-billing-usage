@@ -1,6 +1,6 @@
 # Python Azure Billing Usage and Rate Card
 
-This is a jupyter notebook for exploring Azure Usage. It leverages the [Azure Billing REST 
+This is a collection of jupyter notebooks for exploring Azure Usage. It leverages the [Azure Billing REST 
 API](https://msdn.microsoft.com/en-us/library/azure/mt218998.aspx). 
 
 These API's have several issues:
