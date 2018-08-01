@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="41 -68 707 547" width="707" height="547">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2018-08-01 19:09:44 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="41" y="-68" width="707" height="547"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <rect x="130" y="198" width="282" height="79" fill="white"/>
+        <rect x="130" y="198" width="282" height="79" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(135 219.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.136" y="15">Load Azure Daily Usage for Month to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="63.832" y="33.448">Match Invoice.ipynb</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="452" y="198" width="282" height="79" fill="white"/>
+        <rect x="452" y="198" width="282" height="79" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(457 228.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31.248" y="15">Load Azure Usage CSV.ipynb</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 589 -67 L 747 -67 L 747 3.4 C 699.6 -5.4 636.4 29.8 589 12.2 Z" fill="white"/>
+        <path d="M 589 -67 L 747 -67 L 747 3.4 C 699.6 -5.4 636.4 29.8 589 12.2 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(594 -36.624)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.232" y="15">201807-v2.csv</tspan>
+        </text>
+      </g>
+      <g id="Line_8">
+        <line x1="657.6086" y1="13.09285" x2="607.1114" y2="188.48644" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 114.45 -41 L 452.55 -41 C 492.5424 -41 525 -10.76 525 26.5 C 525 63.76 492.5424 94 452.55 94 L 114.45 94 C 74.4576 94 42 63.76 42 26.5 C 42 -10.76 74.4576 -41 114.45 -41 Z" fill="white"/>
+        <path d="M 114.45 -41 L 452.55 -41 C 492.5424 -41 525 -10.76 525 26.5 C 525 63.76 492.5424 94 452.55 94 L 114.45 94 C 74.4576 94 42 63.76 42 26.5 C 42 -10.76 74.4576 -41 114.45 -41 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(95.3 -28.843994)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.112" y="15">https://management.azure.com:443/subscriptions/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.44" y="33.448">{subscriptionId}/providers/Microsoft.Commerce/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="30.48" y="51.895996">UsageAggregates?api-version=2015-06-01-</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".288" y="70.34399">preview&amp;aggregationGranularity=Daily&amp;reportedstart</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".152" y="88.79199">Time=2018-06-10+00%3a00%3a00Z&amp;reportedEndT</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="58.832" y="107.23999">ime=2018-07-14+00%3a00%3a00Z</tspan>
+        </text>
+      </g>
+      <g id="Line_10">
+        <line x1="279.5012" y1="94" x2="273.9255" y2="188.11733" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_11">
+        <rect x="242.7546" y="133.80244" width="67" height="30" fill="white"/>
+        <text transform="translate(247.7546 139.57844)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".212" y="15">API Call</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="591.83514" y="82.40261" width="83" height="30" fill="white"/>
+        <text transform="translate(596.83514 88.17861)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".348" y="15">Load CSV</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <rect x="288" y="399" width="282" height="79" fill="white"/>
+        <rect x="288" y="399" width="282" height="79" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(293 420.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="25.792" y="15">Reconcile API Usage with CSV </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="91.104" y="33.448">Usage.ipynb</tspan>
+        </text>
+      </g>
+      <g id="Line_14">
+        <line x1="302.04975" y1="277" x2="391.8321" y2="391.2168" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_15">
+        <line x1="560.77114" y1="277" x2="467.4875" y2="391.32933" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_16">
+        <rect x="316.49028" y="314.08257" width="53" height="30" fill="white"/>
+        <text transform="translate(321.49028 319.85857)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".46" y="15">pickle</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <rect x="489.74434" y="316.5725" width="53" height="30" fill="white"/>
+        <text transform="translate(494.74434 322.3485)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".46" y="15">pickle</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
