@@ -16,7 +16,7 @@ There is an alternative azure python package, [azure-mgmt-billing](https://githu
 
 ## Notebooks
 
-* [Explore Rate Card and Usage.ipynb](Explore Rate Card and Usage.ipynb) - A general exploration of the Azure billing and usage API 
-* [Load Azure Daily Usage for Month to Match Invoice.ipynb](Load Azure Daily Usage for Month to Match Invoice.ipynb) - Loads daily usage by resouce from the Azure Micorsoft.Commerct/UsageAgrregates API endpoint. 
-* [Load Azure Usage CSV.ipynb](Load Azure Usage CSV.ipynb) - Loads daily usage from a CSV downloaded from the Azure portal. 
+* [Explore Rate Card and Usage.ipynb](Explore%20Rate%20Card%20and%20Usage.ipynb) - A general exploration of the Azure billing and usage API 
+* [Load Azure Daily Usage for Month to Match Invoice.ipynb](Load%20Azure%20Daily%20Usage%20for%20Month%20to%20Match%20Invoice.ipynb) - Loads daily usage by resouce from the Azure Micorsoft.Commerct/UsageAgrregates API endpoint. 
+* [Load Azure Usage CSV.ipynb](Load%20Azure%20Usage%20CSV.ipynb) - Loads daily usage from a CSV downloaded from the Azure portal. 
 * [Reconcile API Usage with CSV Usage.ipynb](Reconcile%20API%20Usage%20with%20CSV%20Usage.ipynb) - Compares the differences between the two data access methods.
