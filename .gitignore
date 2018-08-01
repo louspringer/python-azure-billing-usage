@@ -91,9 +91,9 @@ env.bak/
 venv.bak/
 
 # pickle
-.p
-.pkl
-.pickle
+*.p
+*.pkl
+*.pickle
 
 # Spyder project settings
 .spyderproject
@@ -109,5 +109,5 @@ venv.bak/
 .mypy_cache/
 
 # pdf
-.pdf
+*.pdf
 
